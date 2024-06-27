@@ -69,5 +69,4 @@ docker run -it --rm sfcc-tests /bin/bash -c 'pytest -m CA_UATORDERS --env=uat-ca
 ## Allure Reports Docs
 https://docs.qameta.io/allure/#_pytest#
 
-
-
+![img.png](img.png)
