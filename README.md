@@ -53,7 +53,7 @@ More CLI Arguments
  -l, --showlocals      Show local variables in tracebacks
 ```
 ## Jenkins
-[Jenkins Build Job](https://jenkins.yamww.cloud/job/pxg/job/ui-testing/)
+[Jenkins Build Job]
 
 ## Running in docker
 
