@@ -9,6 +9,7 @@ Ensure that you have `python` installed
 Pull the git repository.
 
 ``` bash
+git pull https://github.com/ashish-th/NopComm-automated-test.git
 ```
 
 Create a Python environment.
