@@ -1,0 +1,25 @@
+{
+  "demo": [
+    {
+      "UserName": "ashish@gmail.com",
+      "Password": "Test123"
+    }
+  ],
+  "dev": [
+    {
+    }
+  ],
+  "uat": [
+    {
+    }
+  ],
+  "stage": [
+    {
+    }
+  ],
+  "prod": [
+    {
+    }
+  ]
+}
+

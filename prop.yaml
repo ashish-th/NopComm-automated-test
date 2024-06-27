@@ -1,0 +1,11 @@
+Test:
+  Name: TestDemo
+  Env: DEMO
+  #add other details here
+
+
+NopCommDemoRegression:
+  Name: NopDemoRegression
+  Env: ###
+  #add other details here
+

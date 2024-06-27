@@ -1,0 +1,6 @@
+/AllureDir
+/.idea
+/venv
+/.pytest_cache/
+/compose.yaml
+/dockerfile
